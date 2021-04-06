@@ -12,3 +12,4 @@ After get it denotes event like stairs climb or snake bite.<br> At last it denot
 <img width="385" alt="Screenshot 2021-04-06 at 5 58 21 AM" src="https://user-images.githubusercontent.com/78377154/113642290-1a49ad00-969d-11eb-800f-7e20e7b449a7.png">
 <h3>For Winner</h3>
 <img width="281" alt="Screenshot 2021-04-06 at 5 59 47 AM" src="https://user-images.githubusercontent.com/78377154/113642381-4ebd6900-969d-11eb-8ea0-4617b01b4528.png">
+
