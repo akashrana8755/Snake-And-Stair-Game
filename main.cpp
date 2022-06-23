@@ -12,7 +12,7 @@ int dice()
 int main(int argc, const char * argv[]) {
     srand(time(0));
     string name[4];
-    int c[4]={0,0,0,0},winner,n;
+    int c[4]={0,0,0,0},winner,n=-1;
     bool max=false;
     int temp,temp2;
     int rule[101]={0,1,18,3,4,5,6,7,8,9,10,31,28,13,14,15,16,17,18,19,20,15,40,6,24,25,26,27,28,15,30,31,32,
